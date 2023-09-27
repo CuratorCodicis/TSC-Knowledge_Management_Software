@@ -17,8 +17,7 @@ Features that are included:
     - Enter new lodgings, sports facilities, persons to contact, and also new attributes (with options for data type and possible values) and types of sports
     - Manipulate every possible datapoint without worrying about breaking the underlying data or errors at every point in the present or future
 
-<br/>
-See /Screenshots for more visual impressions.
+
 <br/>
 <br/>
 
@@ -43,3 +42,6 @@ See /Screenshots for more visual impressions.
 
 ![pipeline](Screenshots/15.png)
 <br/>
+
+<br/>
+See /Screenshots for more visual impressions.
