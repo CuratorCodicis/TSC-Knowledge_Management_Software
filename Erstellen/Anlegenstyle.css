@@ -1,0 +1,23 @@
+body{
+	 text-align: center; 
+ }
+  table, th, td {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+    border: none;
+    border-collapse: collapse;
+}
+#span {
+    text-align: left; 	
+}
+td {
+    text-align: center; 	
+}
+th {
+    text-align: right;
+}
+.error{
+	color: red; 
+	font-size:1.4em;
+}
