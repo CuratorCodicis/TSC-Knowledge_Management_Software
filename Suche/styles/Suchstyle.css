@@ -1,0 +1,55 @@
+
+#searchDelegate
+{
+	hidden: true;
+}
+
+body
+{
+	text-align: center;
+}
+
+#distanceParameters
+{
+	width: 40%;
+	margin-left: 30%;
+	margin-top: 1em;
+
+}
+
+#SButtons
+{
+	width: 40%;
+	margin-left: 30%;
+	margin-top: 1em;
+
+}
+
+table
+{
+	text-align: right;
+	border:3%;
+	width: 94%;
+}
+#startSearchU
+{
+	width: 48%;
+	margin: 1%;
+}
+#startSearchS
+{
+	width: 48%;
+	float: left;
+	margin:1%;
+}
+#startSearchB
+{
+	width: 98%;
+	margin: 1%;
+}
+
+.error
+{
+	color: red;
+	font-size:1.4em;
+}

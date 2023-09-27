@@ -1,0 +1,153 @@
+
+body
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+p
+{
+	text-align: left;
+	font-size: 16pt;
+}
+
+div
+{
+	/*width:70%;*/
+	/*margin-left:10%;*/
+	text-align: center;
+	margin-top: 20pt;
+}
+
+#ausKritAnz, #info, #submitDiv
+{
+	border: none;
+	width: 70%;
+	/*margin-left:0%;*/
+	overflow: auto;
+	/*text-align: left;*/
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#submitSearch
+{
+	float: right;
+}
+.attributes
+{
+	margin: 0px;
+	margin-left: 60px;
+	margin-bottom: 15px;
+	text-align: left;
+	font-size: 12pt;
+}
+
+select
+{
+	width: 50%;
+}
+
+#maxDistTag, #sOrtTag{
+	padding: 15px 10px;
+}
+
+.tagEl
+{
+	background-image: url(./backgroundLabel2.png);
+	background-repeat: no-repeat;
+	background-size: 100% 94%;
+	/*background-color: #EFEFEF;*/
+	float:left;
+	width: auto;
+	margin-left:10px;
+	margin-top: 5px;
+	text-indent: 20px;
+	padding: 8px 10px 10px 10px;
+}
+
+.deleteTag{
+	/*
+	background-image: url(../Design/Bilder/redCross2.png);
+	background-size: contain;
+	background-repeat: no-repeat; */
+	margin-right: 0px;
+	margin-top: -1px;
+	margin-bottom: 1px;
+	font-size: 16pt;
+	color: #F8F8FF;
+	padding: 1px 10px 4px 10px;
+	margin-left: 15px;
+	background-color: #E00;
+}
+.deleteTag:hover{
+	/*background-image: url(../Design/Bilder/redCross3.png);
+	background-color: transparent;*/
+	background-color: #DD0000;
+}
+.operator_changer{
+	margin-left: 2px;
+	margin-right: 3px;
+	padding: 4px 8px;
+}
+.orGroup{
+	width:auto;
+	margin:0;
+	
+}
+.SCcontent{
+	background-color: white;
+	max-height: 0;
+	width: 70%;
+	overflow: hidden;
+	transition: max-height 0.2s ease-out;
+	margin: auto;
+	border-radius: 2px;
+}
+.opener{
+	background-color: #e5e5e5;
+	width:70%;
+	margin-top: 12px;
+	margin-bottom: 6px;
+	margin-left: auto;
+	margin-right: auto;
+	height:100%;
+	padding: 18px;
+	text-align: left;
+	font-size: 22px;
+	border-radius: 4px;
+	transition: 0.4s;
+}
+.active{
+  background-color: #3c3c3c;
+  color: #F8F8FF;
+}
+.opener:hover{
+	background-color: #848484;
+	color: #F8F8FF;
+	cursor: pointer;
+}
+.opener:after{
+	content: '\002B';
+	font-weight: bold;
+	float: right;
+	margin-left: 5px;
+	margin-right: 10px;
+}
+.active:after {
+  content: "\2212";
+}
+.subgroup{
+	margin: 15px 10px 5px 20px;
+	
+}
+.attributes_clicker{
+	font-size: 16pt;
+	color: #F8F8FF;
+	padding: 0px 10px 5px 10px;
+	margin-left: 15px;
+	background-color: #4CAF50;
+}
+.attributes_clicker:hover{
+	background-color: #64B04B;
+}

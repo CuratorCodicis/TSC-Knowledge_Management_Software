@@ -1,0 +1,160 @@
+
+body
+{
+	text-align: center;
+}
+
+div
+{
+	text-align: center;
+	margin-bottom:5px;
+}
+div.image9
+{
+	margin-bottom:10px;
+	
+}
+p
+{
+	background-color: #FBFBFB;
+	text-align: left;
+	overflow: hidden;
+	margin: 0;
+	padding: 20px;
+	border-bottom-style: solid;
+	border-bottom-color: #EBEBEB;
+	border-bottom-width: 2px;
+	padding-right: 30px;
+}
+.Ergebnis
+{
+	background-color: #FBFBFB;
+	text-align: left;
+	overflow: hidden;
+	margin: 0;
+	padding: 20px;
+	border-bottom-style: solid;
+	border-bottom-color: #EBEBEB;
+	border-bottom-width: 2px;
+}
+h3
+{
+	padding-left: 10px;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+.Ergebnis:hover 
+{
+	background-color: #848484;
+	color: #F8F8FF;
+	cursor: pointer;
+}
+.Ergebnis:active
+{
+	background-color: #3c3c3c;
+	color: #F8F8FF;
+}
+.ErgebnisOrt
+{
+	width: 55%;
+	float:left;
+	text-align: left;
+	padding-left: 5%;
+}
+.ErgebnisZeit
+{
+	width: 25%;
+	float:left;
+	text-align: right;
+}
+.ErgebnisEntfernung
+{
+	width:20%;
+	float:left;
+	text-align: right;
+	padding-right: 5%;
+}
+#nav
+{
+	width:75%;
+	text-align: center;
+	overflow:hidden;
+	margin: auto;
+}
+#map_list
+{
+	text-align: center;
+	padding-left: 12.5%;
+	padding-right: 12.5%;
+}
+#map{
+	/*border: 2px solid black;*/
+	width: 62%;
+	margin: auto;
+	float: left;
+	position: relative;
+	min-width: 500px;
+	height: 44vw;
+}
+#Legend_list
+{
+	width: 38%;
+	float: left;
+	min-width: 400px;
+	height: 44vw;
+	border-bottom-style: solid;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-color: #D0D0D0;
+	background-color: #D0D0D0;
+	overflow-y: scroll;
+	margin-bottom: 0;
+}
+#listHeader
+{
+	border-color: #D0D0D0;
+	border-bottom-style: solid;
+	border-bottom-width: 5px;
+	background-color: #FBFBFB;
+	text-align:center;
+	padding:10px;
+	margin: 0;
+	top: 0;
+	position: sticky;
+}
+
+#listContent{
+	margin: 0;
+}
+#list{
+	margin-bottom: 0;
+}
+
+#beendenBox
+{
+	text-align:right;
+	width:50%;
+	float:left;
+}
+#zuruckBox
+{
+	text-align:left;
+	width:50%;
+	float:left;
+}
+#progressbar {
+  width: 10%;
+  height: 40px;
+  background-color: #4CAF50;
+  text-align: center; /* To center it horizontally (if you want) */
+  line-height: 30px; /* To center it vertically */
+  color: white; 
+}
+#loader{
+	text-align:center;
+	margin:5%;
+}
+.markerLegends{
+	max-width:22px;
+	width:100%;
+}

@@ -1,0 +1,127 @@
+body
+{
+	text-align: center;
+}
+div
+{
+	text-align: center;
+}
+table
+{
+	text-align: left;
+	border-collapse: collapse;
+}tr
+{
+    line-height:30px;
+	border-bottom: 2px solid #FBFBFB;
+}
+th
+{
+	padding-right: 20px;
+	font-size: 0.9em; 
+}
+td
+{
+	padding-right: 20px;
+	word-wrap: normal;
+	overflow-wrap: anywhere;
+	white-space: normal;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+}
+h4
+{
+	margin: 0;
+	text-align: center;
+}
+.ramen
+{
+	
+	margin: auto;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+.left
+{
+	width: 52%;
+	float: left;
+	position: relative;
+	margin-right: 7.5%;
+	min-width: 300px;
+	margin-bottom: 35px;
+	
+}
+.right
+{
+	width: 40.5%;
+	float: left;
+	position: relative;
+	min-width: 300px;
+}
+.info
+{
+	text-align: left;
+	background-color: #FBFBFB;
+	border-radius: 4px;
+	padding: 20px;
+	padding-left: 5%;
+	overflow-x: hidden;
+	border: none;
+}
+.entf
+{
+	width: 60%;
+	margin: auto;
+	vertical-align: middle;
+	text-align: center;
+	padding: 1.5%;
+	border: none;
+	min-width: 450px;
+}
+.unsatisfied_box
+{
+	width: 90% !important;
+	margin-left: 5%;
+	text-align: left;
+}
+.unsatisfied
+{
+	float: left;
+	background-color: #ff1a1a;
+	color: white;
+	margin-right: 8px;
+	margin-bottom: 6px;
+	padding: 5px;
+	border: none;
+	border-radius: 4px;
+}
+
+.satisfied_th{
+	background-color: #00cc00;
+	color:white;
+	border-radius: 4px;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align:left;
+	display: inline-block;
+}
+.empty{
+	font-size: 12pt;
+	padding-left: 1pt;
+}
+#edit{
+	margin-top: 1%;
+	margin-right: 0%;
+}
+#commentObject{
+	vertical-align: top;
+}
+#editprices{
+	float: right;	
+	vertical-align: top;
+	margin: -8% 5%;
+}
+#priceEdit{
+	text-align: left;
+	width: 85%;
+}
