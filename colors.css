@@ -1,0 +1,77 @@
+
+h1{
+	color:white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+div.color{
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	margin:-8px;
+	margin-bottom: 10px;
+	width:auto;
+  }
+  
+  #colorIndex{
+	  background-color: white;
+  }
+  
+  
+  #colorSuche{
+	  background-color:#C0C0C0;/*Silver*/
+  }
+  
+ /*
+ https://www.w3schools.com/colors/colors_mixer.asp?colorbottom=E9967A&colortop=FFFFFF
+ Unterkunft - Abstufungen
+ 1.#E9967A
+ 2.#eba087
+ 3.#edab95
+ 4.#f2c0af
+ 5.#f7dad0
+ */
+  #colorU1{
+	  background-color: #eba087;/*DarkSalmon*/
+  }
+  #colorU2{
+	  background-color: #A52A2A;/*Brown*/
+  }
+  #colorU3{
+	  background-color: #993333;/*OrangeRed*/
+  }
+  #colorU4{
+	  background-color: #B22222;/*FireBrick*/
+  }
+  
+ /*
+ https://www.w3schools.com/colors/colors_mixer.asp?colorbottom=5F9EA0&colortop=FFFFFF
+Sportstätte - Abstufungen
+1.#5F9EA0
+2.#6fa8aa
+3.#7fb1b3
+4.#8fbbbc
+5.#a7cacb
+ */
+  #colorS1{
+	  background-color: #5F9EA0;/*CadetBlue*/
+  }
+  #colorS2{
+	  background-color: #5F9EA0;
+  }
+  #colorS3{
+	  background-color: #5F9EA0;
+  }
+  
+  
+  #colorK1{
+	  background-color: #6ed0ae;/*MediumAquaMarine */
+  }
+  #colorK2{
+	  background-color: #6ed0ae;
+  }
+  #colorK3{
+	  background-color: #6ed0ae;
+  }
+  

@@ -1,0 +1,83 @@
+h1{
+	color:white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+div.image{
+	background-image: url("Design/Bilder/green.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	margin:-8px;
+	margin-bottom: 10px;
+}
+
+#image1{
+   background-image: url("Design/Bilder/room.jpg");
+   background-position: 50% 50%;
+}
+#image2{
+   background-image: url("Design/Bilder/Room6 (3).jpg");
+   background-position: 50% 20%;
+   width: auto;
+}
+#image3{
+   background-image: url("Design/Bilder/Room3.jpg");
+   background-position: 50% 50%;
+}
+#image4{
+   background-image: url("Design/Bilder/Phone1.jpg");
+   background-position: 50% 33%;
+}
+#image5{
+   background-image: url("Design/Bilder/Phonecell.jpg");
+   background-position: center;
+}
+#image6{
+   background-image: url("Design/Bilder/MAshine.jpg");
+   background-position: 50% 65%;
+}
+#image7{
+   background-image: url("Design/Bilder/hotel2.jpg");
+   background-position: 55% 50%;
+}
+#image8{
+   background-image: url("Design/Bilder/ball.jpg");
+   background-position: 50% 60%;
+}
+#image9{
+   background-image: url("Design/Bilder/result.jpg");
+   background-position: 50% 60%;
+}
+#image10{
+	background-image: url("Design/Bilder/search.jpg");
+	background-position: 50% 60%;
+}
+#image11{
+	background-image: url("Design/Bilder/sport2.jpg");
+	background-position: 50% 45%;
+}
+/*
+#image12{
+	background-image: url("Design/Bilder/sport1.jpg");
+	background-position: 50% 50%;
+	width: auto;
+}
+*/
+#image13{
+	background-image: url("Design/Bilder/Edge.jpg");
+	background-position: 50% 50%;
+}
+#image14{
+	background-image: url("Design/Bilder/Tennis.jpg");
+	background-position: 50% 40%;
+}
+/*#image15{
+	background-image: url("Design/Bilder/sportResult.jpg");
+	background-position: 50% 60%;
+}*/
+#image16{
+	background-image: url("Design/Bilder/windows.jpg");
+	background-position: 50% 51%;
+}
