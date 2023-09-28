@@ -2,7 +2,7 @@
 
 This Knowledge Management Software was created as part of a project in collaboration with the Touristik-Service-Center GmbH. The small, tourism-oriented company organizes field trips and vacations for schools, youth organizations, and clubs.
 
-This was the first effort the company made to digitalize their institutional knowledge and associated workflows. As part of this exercise, as little external code and/or libraries as possible were used, and instead a fresh, ground-up implementation of the source code was chosen.
+This was the first effort the company made to digitalize their institutional knowledge and associated workflows. As part of this exercise, as little external code and/or libraries as practically feasible were used, and instead a fresh, ground-up implementation of the source code was chosen.
 
 The project was implemented on a local web server and database that allowed simultaneous and dispersed work on the data. As only a web browser is necessary to access the data, the software runs (and will run) independent of platform or operating system. The complete frontend and backend development was done during the project and only by participating students. The associated MySQL database schema was conceived and initialized, and the data handling and SQL logic were integrated in the backend. A UX and UI concept was developed, reviewed, and implemented.
 
